@@ -1,2 +1,2 @@
 # lp2_carrito_compra
-Carrito de compras
+Proyecto de carrito de compra usando Spring
